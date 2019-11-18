@@ -54,7 +54,7 @@
                     </staffDef>
                   </staffGrp>
                 </scoreDef>
-                <section n="0" label="Thema">
+                <section n="0" label="TEMA.">
                   <measure xml:id="incip-measure-0000001776188448" n="1">
                     <staff xml:id="incip-staff-0000001516804281" n="1">
                       <layer xml:id="incip-layer-0000000044583165" n="1">
@@ -80,7 +80,7 @@
                     <tempo xml:id="incip-tempo-00012351243123" type="heading" place="above"
                       staff="1" tstamp="1.000000">
                       <rend xml:id="incip-rend-0000002143078728" halign="center" valign="middle"
-                        fontsize="125.00%" fontstyle="normal" fontweight="normal">Tema.</rend>
+                        fontsize="125.00%" fontstyle="normal" fontweight="normal">TEMA.</rend>
                     </tempo>
                     <dynam xml:id="incip-dynam-0000001255055352" place="above" staff="2"
                       tstamp="1.000000" vgrp="10">f</dynam>
@@ -434,7 +434,7 @@
                 <tempo xml:id="tempo-00012351243123" type="heading" place="above" staff="1"
                   tstamp="1.000000">
                   <rend xml:id="rend-0000002143078728" halign="center" valign="middle"
-                    fontsize="125.00%" fontstyle="normal" fontweight="normal">Tema.</rend>
+                    fontsize="125.00%" fontstyle="normal" fontweight="normal">TEMA.</rend>
                 </tempo>
                 <dynam xml:id="dynam-0000001255055352" place="above" staff="2" tstamp="1.000000"
                   vgrp="10">f</dynam>
@@ -669,7 +669,7 @@
               </measure>
               <sb xml:id="sb-0000001472107929"/>
             </section>
-            <section xml:id="section-VarI" n="1" label="Var. I">
+            <section xml:id="section-VarI" n="1" label="VAR.I.">
               <measure xml:id="measure-0000000442795444" n="9">
                 <staff xml:id="staff-0000000700128868" n="1">
                   <layer xml:id="layer-0000000419614394" n="1">
@@ -719,7 +719,7 @@
                 <tempo xml:id="dir-0000000792961432" type="heading" place="above" staff="1"
                   tstamp="1.000000">
                   <rend xml:id="rend-0000000282199425" halign="left" fontsize="125.00%"
-                    fontstyle="normal" fontweight="normal">Var. I</rend>
+                    fontstyle="normal" fontweight="normal">VAR. I</rend>
                 </tempo>
                 <dynam xml:id="dynam-0000001796995108" place="below" staff="1"
                   startid="#note-0000000727777072" vgrp="100">p</dynam>
@@ -1116,7 +1116,7 @@
               </measure>
               <sb xml:id="sb-0000000428223373"/>
             </section>
-            <section xml:id="section-VarII" n="2" label="Var. II">
+            <section xml:id="section-VarII" n="2" label="VAR.II.">
               <measure xml:id="measure-0000000331820757" n="17">
                 <staff xml:id="staff-0000001176944916" n="1">
                   <layer xml:id="layer-0000001781632391" n="1">
@@ -1166,7 +1166,7 @@
                 <tempo xml:id="dir-00000007924233432" type="heading" place="above" staff="1"
                   tstamp="1.000000">
                   <rend xml:id="rend-0000001057489096" halign="left" fontsize="125.00%"
-                    fontstyle="normal" fontweight="normal">Var. II</rend>
+                    fontstyle="normal" fontweight="normal">VAR.II.</rend>
                 </tempo>
                 <dir xml:id="dir-0000001446021832" place="above" staff="2" tstamp="1.000000"
                   >leggiermente</dir>
@@ -1544,7 +1544,7 @@
               </measure>
               <pb xml:id="pb-0000000731967607"/>
             </section>
-            <section xml:id="section-VarIII" n="3" label="Var. III">
+            <section xml:id="section-VarIII" n="3" label="VAR.III.">
               <measure xml:id="measure-0000000293928349" n="25">
                 <staff xml:id="staff-0000000873607613" n="1">
                   <layer xml:id="layer-0000000332681492" n="1">
@@ -1613,7 +1613,7 @@
                 <tempo xml:id="tempo-0000001796355143" type="heading" place="above" staff="1"
                   tstamp="1.000000">
                   <rend xml:id="rend-0000000324880724" halign="left" fontsize="125.00%"
-                    fontstyle="normal" fontweight="normal">Var. III</rend>
+                    fontstyle="normal" fontweight="normal">VAR.III.</rend>
                 </tempo>
               </measure>
               <measure xml:id="measure-0000002072622961" n="26">
@@ -2099,7 +2099,7 @@
               </measure>
               <sb xml:id="sb-0000000640879341"/>
             </section>
-            <section xml:id="section-VarIV" n="4" label="Var. IV">
+            <section xml:id="section-VarIV" n="4" label="VAR.IV.">
               <measure xml:id="measure-0000000190172850" n="33">
                 <staff xml:id="staff-0000000095852559" n="1">
                   <layer xml:id="layer-0000000416516675" n="1">
@@ -2159,7 +2159,7 @@
                 <tempo xml:id="tempo-0000000742311786" type="heading" place="above" staff="1"
                   tstamp="1.000000">
                   <rend xml:id="rend-0000000295093350" halign="left" fontsize="125.00%"
-                    fontstyle="normal" fontweight="normal">Var. IV</rend>
+                    fontstyle="normal" fontweight="normal">VAR.IV.</rend>
                 </tempo>
                 <dynam xml:id="dynam-0000000749831786" place="below" staff="1"
                   startid="#note-0000000695409514">p</dynam>
@@ -2594,7 +2594,7 @@
               </measure>
               <sb xml:id="sb-0000000127423039"/>
             </section>
-            <section xml:id="section-VarV" n="5" label="Var. V">
+            <section xml:id="section-VarV" n="5" label="VAR.V.">
               <measure xml:id="measure-0000000762305945" n="41">
                 <staff xml:id="staff-0000001068335032" n="1">
                   <layer xml:id="layer-0000001656340340" n="1">
@@ -2665,7 +2665,7 @@
                 <tempo xml:id="tempo-0000005948374234" type="heading" place="above" staff="1"
                   tstamp="1.000000">
                   <rend xml:id="rend-0000001004753494" halign="left" fontsize="125.00%"
-                    fontstyle="normal" fontweight="normal">Var. V</rend>
+                    fontstyle="normal" fontweight="normal">VAR.V.</rend>
                 </tempo>
                 <slur xml:id="slur-0000001628000088" startid="#chord-0000001252820689"
                   endid="#chord-0000001349057826"/>
@@ -3144,7 +3144,7 @@
               </measure>
               <pb xml:id="pb-0000000580494562"/>
             </section>
-            <section xml:id="section-VarVI" n="6" label="Var. VI">
+            <section xml:id="section-VarVI" n="6" label="VAR.VI.">
               <measure xml:id="measure-0000000870581520" n="49">
                 <staff xml:id="staff-0000002102869457" n="1">
                   <layer xml:id="layer-0000001452127788" n="1">
@@ -3272,7 +3272,7 @@
                 <tempo xml:id="tempo-0000005949380234" type="heading" place="above" staff="1"
                   tstamp="1.000000">
                   <rend xml:id="rend-0000001232567749" halign="left" fontsize="125.00%"
-                    fontstyle="normal" fontweight="normal">Var. VI</rend>
+                    fontstyle="normal" fontweight="normal">VAR.VI.</rend>
                 </tempo>
               </measure>
               <measure xml:id="measure-0000000169345129" n="50">
@@ -3795,7 +3795,7 @@
               </measure>
               <sb xml:id="sb-0000000682592424"/>
             </section>
-            <section xml:id="section-VarVII" n="7" label="Var. VII">
+            <section xml:id="section-VarVII" n="7" label="VAR.VII.">
               <measure xml:id="measure-0000001212823599" n="57">
                 <staff xml:id="staff-0000001611231344" n="1">
                   <layer xml:id="layer-0000000831669347" n="1">
@@ -3882,7 +3882,7 @@
                 <tempo xml:id="tempo-0000005948928034" type="heading" place="above" staff="1"
                   tstamp="1.000000">
                   <rend xml:id="rend-0000000803119920" halign="left" fontsize="125.00%"
-                    fontstyle="normal" fontweight="normal">Var. VII</rend>
+                    fontstyle="normal" fontweight="normal">VAR.VII.</rend>
                 </tempo>
                 <slur xml:id="slur-0000000320469104" startid="#chord-0000001263346870"
                   endid="#chord-0000000415917220"/>
@@ -4530,7 +4530,7 @@
               </measure>
               <sb xml:id="sb-0000000770345258"/>
             </section>
-            <section xml:id="section-VarVIII" n="8" label="Var. VIII">
+            <section xml:id="section-VarVIII" n="8" label="VAR.VIII.">
               <measure xml:id="measure-0000001998886754" n="65">
                 <staff xml:id="staff-0000000004810946" n="1">
                   <layer xml:id="layer-0000000644806932" n="1">
@@ -4645,7 +4645,7 @@
                 <tempo xml:id="tempo-0000005938293234" type="heading" place="above" staff="1"
                   tstamp="1.000000">
                   <rend xml:id="rend-0000001091691644" halign="left" fontsize="125.00%"
-                    fontstyle="normal" fontweight="normal">Var. VIII</rend>
+                    fontstyle="normal" fontweight="normal">VAR.VIII.</rend>
                 </tempo>
               </measure>
               <measure xml:id="measure-0000000673722316" n="66">
@@ -5497,7 +5497,7 @@
               </measure>
               <pb xml:id="pb-0000000032133337"/>
             </section>
-            <section xml:id="section-VarIX" n="9" label="Var. IX">
+            <section xml:id="section-VarIX" n="9" label="VAR.IX.">
               <measure xml:id="measure-0000001683170169" n="73">
                 <staff xml:id="staff-0000001692144125" n="1">
                   <layer xml:id="layer-0000001158410649" n="1">
@@ -5605,7 +5605,7 @@
                 <tempo xml:id="tempo-0000005948908934" type="heading" place="above" staff="1"
                   tstamp="1.000000">
                   <rend xml:id="rend-0000002091304004" halign="left" fontsize="125.00%"
-                    fontstyle="normal" fontweight="normal">Var. IX</rend>
+                    fontstyle="normal" fontweight="normal">VAR.IX.</rend>
                 </tempo>
                 <dir xml:id="dir-0000000045327555" place="above" staff="1" tstamp="1.000000"
                   >Espressivo</dir>
@@ -6288,7 +6288,7 @@
               </measure>
               <sb xml:id="sb-0000000760412156"/>
             </section>
-            <section xml:id="section-VarX" n="10" label="Var. X">
+            <section xml:id="section-VarX" n="10" label="VAR.X.">
               <measure xml:id="measure-0000002021354566" n="81">
                 <staff xml:id="staff-0000000281685885" n="1">
                   <layer xml:id="layer-0000000085004123" n="1">
@@ -6368,7 +6368,7 @@
                 <tempo xml:id="tempo-0000005948273634" type="heading" place="above" staff="1"
                   tstamp="1.000000">
                   <rend xml:id="rend-0000000313710703" halign="left" fontsize="125.00%"
-                    fontstyle="normal" fontweight="normal">Var. X</rend>
+                    fontstyle="normal" fontweight="normal">VAR.X.</rend>
                 </tempo>
                 <dynam xml:id="dynam-0000002140556548" place="above" staff="1"
                   startid="#chord-0000002005163913">sf</dynam>
@@ -6993,7 +6993,7 @@
               </measure>
               <pb xml:id="pb-0000001863022877"/>
             </section>
-            <section xml:id="section-VarXI" n="11" label="Var. XI">
+            <section xml:id="section-VarXI" n="11" label="VAR.XI.">
               <measure xml:id="measure-0000001674529349" n="89">
                 <staff xml:id="staff-0000000289507124" n="1">
                   <layer xml:id="layer-0000002111054637" n="1">
@@ -7062,7 +7062,7 @@
                 <tempo xml:id="tempo-0000098789374234" type="heading" place="above" staff="1"
                   tstamp="1.000000">
                   <rend xml:id="rend-0000001169152137" halign="left" fontsize="125.00%"
-                    fontstyle="normal" fontweight="normal">Var. XI</rend>
+                    fontstyle="normal" fontweight="normal">VAR.XI.</rend>
                 </tempo>
                 <dynam xml:id="dynam-0000000222986271" place="below" staff="1" tstamp="1.000000"
                   >sempre forte</dynam>
@@ -7697,7 +7697,7 @@
               </measure>
               <sb xml:id="sb-0000000865223840"/>
             </section>
-            <section xml:id="section-VarXII" n="12" label="Var. XII">
+            <section xml:id="section-VarXII" n="12" label="VAR.XII.">
               <scoreDef xml:id="scoredef-0000000103033221" key.mode="major" key.sig="0"/>
               <measure xml:id="measure-0000000103856859" n="97">
                 <staff xml:id="staff-0000001412667801" n="1">
@@ -7731,11 +7731,11 @@
                 <tempo xml:id="tempo-0000005949897634" type="heading" place="above" staff="1"
                   tstamp="1.000000">
                   <rend xml:id="rend-0000001739725907" halign="left" fontsize="125.00%"
-                    fontstyle="normal" fontweight="normal">Var. XII</rend>
+                    fontstyle="normal" fontweight="normal">VAR.XII.</rend>
                 </tempo>
                 <dir xml:id="dir-00000029382716273" place="above" staff="1" tstamp="1.000000">
                   <rend xml:id="rend-0000001051797573" fontsize="110.00%" fontstyle="normal"
-                    fontweight="normal">Maggiore</rend>
+                    fontweight="normal">Maggiore.</rend>
                 </dir>
                 <slur xml:id="slur-0000001490618326" startid="#note-0000002078849472"
                   endid="#note-0000000074713842" curvedir="above"/>
@@ -8018,7 +8018,7 @@
               </measure>
               <sb xml:id="sb-0000000886174566"/>
             </section>
-            <section xml:id="section-VarXIII" n="13" label="Var. XIII">
+            <section xml:id="section-VarXIII" n="13" label="VAR.XIII.">
               <measure xml:id="measure-0000000908664009" n="105">
                 <staff xml:id="staff-0000000518688970" n="1">
                   <layer xml:id="layer-0000000160941668" n="1">
@@ -8065,7 +8065,7 @@
                 <tempo xml:id="tempo-0000005949879834" type="heading" place="above" staff="1"
                   tstamp="1.000000">
                   <rend xml:id="rend-0000001138139328" halign="left" fontsize="125.00%"
-                    fontstyle="normal" fontweight="normal">Var. XIII</rend>
+                    fontstyle="normal" fontweight="normal">VAR.XIII.</rend>
                 </tempo>
                 <slur xml:id="slur-0000001324914862" startid="#note-0000001150749100"
                   endid="#note-0000001709088631"/>
@@ -8504,7 +8504,7 @@
                 <tempo xml:id="tempo-0000005949827314" type="heading" place="above" staff="1"
                   tstamp="1.000000">
                   <rend xml:id="rend-0000001401970186" halign="left" fontsize="125.00%"
-                    fontstyle="normal" fontweight="normal">Var. XIV</rend>
+                    fontstyle="normal" fontweight="normal">VAR.XIV.</rend>
                 </tempo>
                 <slur xml:id="slur-0000002029975017" startid="#note-0000000608720648"
                   endid="#note-0000000460758725"/>
@@ -9084,7 +9084,7 @@
               </measure>
               <sb xml:id="sb-0000000677733614"/>
             </section>
-            <section xml:id="section-VarXV" n="15" label="Var. XV">
+            <section xml:id="section-VarXV" n="15" label="VAR.XV.">
               <measure xml:id="measure-0000000593748005" n="121">
                 <staff xml:id="staff-0000001369447418" n="1">
                   <layer xml:id="layer-0000000957487458" n="1">
@@ -9172,7 +9172,7 @@
                 <tempo xml:id="tempo-0000005949228334" type="heading" place="above" staff="1"
                   tstamp="1.000000">
                   <rend xml:id="rend-0000000123790159" halign="left" fontsize="125.00%"
-                    fontstyle="normal" fontweight="normal">Var. XV</rend>
+                    fontstyle="normal" fontweight="normal">VAR.XV.</rend>
                 </tempo>
                 <dir xml:id="dir-0000001522030890" place="above" staff="2" tstamp="1.000000"
                   >dolce</dir>
@@ -9939,7 +9939,7 @@
               </measure>
               <sb xml:id="sb-0000000902037637"/>
             </section>
-            <section xml:id="section-VarXVI" n="16" label="Var. XVI">
+            <section xml:id="section-VarXVI" n="16" label="VAR.XVI.">
               <measure xml:id="measure-0000000321678566" n="129">
                 <staff xml:id="staff-0000001500682270" n="1">
                   <layer xml:id="layer-0000001226407301" n="1">
@@ -10027,7 +10027,7 @@
                 <tempo xml:id="tempo-0000005949392834" type="heading" place="above" staff="1"
                   tstamp="1.000000">
                   <rend xml:id="rend-0000000623773809" halign="left" fontsize="125.00%"
-                    fontstyle="normal" fontweight="normal">Var. XVI</rend>
+                    fontstyle="normal" fontweight="normal">VAR.XVI.</rend>
                 </tempo>
               </measure>
               <measure xml:id="measure-0000001261383597" n="130">
@@ -10634,7 +10634,7 @@
               </measure>
               <sb xml:id="sb-0000000340414264"/>
             </section>
-            <section xml:id="section-VarXVII" n="17" label="Var. XVII">
+            <section xml:id="section-VarXVII" n="17" label="VAR.XVII.">
               <scoreDef xml:id="scoredef-0000001883573203" key.mode="minor" key.sig="3f"/>
               <measure xml:id="measure-0000001877660942" n="137">
                 <staff xml:id="staff-0000001423701527" n="1">
@@ -10685,11 +10685,11 @@
                 <tempo xml:id="tempo-0000005992893834" type="heading" place="above" staff="1"
                   tstamp="1.000000">
                   <rend xml:id="rend-0000000437726707" halign="left" fontsize="125.00%"
-                    fontstyle="normal" fontweight="normal">Var. XVII</rend>
+                    fontstyle="normal" fontweight="normal">VAR.XVII.</rend>
                 </tempo>
                 <dir xml:id="dir-0000009847382371" place="above" staff="1" tstamp="1.000000">
                   <rend xml:id="rend-0000001022429648" fontsize="110.00%" fontstyle="normal"
-                    fontweight="normal">Minore</rend>
+                    fontweight="normal">Minore.</rend>
                 </dir>
                 <dir xml:id="dir-0000003213231224" place="above" staff="2" tstamp="1.000000"
                   >dolce</dir>
@@ -11189,7 +11189,7 @@
               </measure>
               <sb xml:id="sb-0000002027620880"/>
             </section>
-            <section xml:id="section-VarXVIII" n="18" label="Var. XVIII">
+            <section xml:id="section-VarXVIII" n="18" label="VAR.XVIII.">
               <measure xml:id="measure-0000001466753640" n="145">
                 <staff xml:id="staff-0000000776435650" n="1">
                   <layer xml:id="layer-0000001309927350" n="1">
@@ -11263,7 +11263,7 @@
                 <tempo xml:id="tempo-0000005949821324" type="heading" place="above" staff="1"
                   tstamp="1.000000">
                   <rend xml:id="rend-0000000465746584" halign="left" fontsize="125.00%"
-                    fontstyle="normal" fontweight="normal">Var. XVIII</rend>
+                    fontstyle="normal" fontweight="normal">VAR.XVIII.</rend>
                 </tempo>
                 <dynam xml:id="dynam-0000000165934552" place="above" staff="2"
                   startid="#chord-0000001641702696" vgrp="2800">f</dynam>
@@ -11822,7 +11822,7 @@
                   startid="#note-0000001889891155">sf</dynam>
               </measure>
             </section>
-            <section xml:id="section-VarXIX" n="19" label="Var. XIX">
+            <section xml:id="section-VarXIX" n="19" label="VAR.XIX.">
               <measure xml:id="measure-0000001243080944" n="153">
                 <staff xml:id="staff-0000000373740308" n="1">
                   <layer xml:id="layer-0000001702764786" n="1">
@@ -11928,7 +11928,7 @@
                 <tempo xml:id="tempo-0000005932784334" type="heading" place="above" staff="1"
                   tstamp="1.000000">
                   <rend xml:id="rend-0000000256400584" halign="left" fontsize="125.00%"
-                    fontstyle="normal" fontweight="normal">Var. XIX</rend>
+                    fontstyle="normal" fontweight="normal">VAR.XIX.</rend>
                 </tempo>
                 <dynam xml:id="dynam-0000000284536703" place="below" staff="1"
                   startid="#note-0000002007705218">p</dynam>
@@ -12716,7 +12716,7 @@
               </measure>
               <pb xml:id="pb-0000001590049831"/>
             </section>
-            <section xml:id="section-VarXX" n="20" label="Var. XX">
+            <section xml:id="section-VarXX" n="20" label="VAR.XX.">
               <measure xml:id="measure-0000001306891841" n="161">
                 <staff xml:id="staff-0000001691207385" n="1">
                   <layer xml:id="layer-0000000171246493" n="1">
@@ -12802,7 +12802,7 @@
                 <tempo xml:id="tempo-0000005949283224" type="heading" place="above" staff="1"
                   tstamp="1.000000">
                   <rend xml:id="rend-0000001291015962" halign="left" fontsize="125.00%"
-                    fontstyle="normal" fontweight="normal">Var. XX</rend>
+                    fontstyle="normal" fontweight="normal">VAR.XX.</rend>
                 </tempo>
                 <dynam xml:id="dynam-0000000651974102" place="below" staff="1" tstamp="1.000000"
                   >sempre forte</dynam>
@@ -13455,7 +13455,7 @@
               </measure>
               <sb xml:id="sb-0000001172323942"/>
             </section>
-            <section xml:id="section-VarXXI" n="21" label="Var. XXI">
+            <section xml:id="section-VarXXI" n="21" label="VAR.XXI.">
               <measure xml:id="measure-0000001188840726" n="169">
                 <staff xml:id="staff-0000000296661002" n="1">
                   <layer xml:id="layer-0000001146385937" n="1">
@@ -13541,7 +13541,7 @@
                 <tempo xml:id="tempo-0000005928332834" type="heading" place="above" staff="1"
                   tstamp="1.000000">
                   <rend xml:id="rend-0000001134983392" halign="left" fontsize="125.00%"
-                    fontstyle="normal" fontweight="normal">Var. XXI</rend>
+                    fontstyle="normal" fontweight="normal">VAR.XXI.</rend>
                 </tempo>
                 <dynam xml:id="dynam-0000000152974102" place="below" staff="1" tstamp="1.000000"
                   >sempre forte</dynam>
@@ -14213,7 +14213,7 @@
               </measure>
               <sb xml:id="sb-0000001664669874"/>
             </section>
-            <section xml:id="section-VarXXII" n="22" label="Var. XXII">
+            <section xml:id="section-VarXXII" n="22" label="VAR.XXII.">
               <measure xml:id="measure-0000001166822017" right="dbl" n="177">
                 <staff xml:id="staff-0000000217233095" n="1">
                   <layer xml:id="layer-0000002001671751" n="1">
@@ -14271,7 +14271,7 @@
                 <tempo xml:id="tempo-0000005293821834" type="heading" place="above" staff="1"
                   tstamp="1.000000">
                   <rend xml:id="rend-0000001595499806" halign="left" fontsize="125.00%"
-                    fontstyle="normal" fontweight="normal">Var. XII</rend>
+                    fontstyle="normal" fontweight="normal">VAR.XII.</rend>
                 </tempo>
                 <dynam xml:id="dynam-0000000781104446" place="below" staff="1"
                   startid="#chord-0000001185560857">f</dynam>
@@ -14758,7 +14758,7 @@
               </measure>
               <sb xml:id="sb-0000001379245858"/>
             </section>
-            <section xml:id="section-VarXXIII" n="23" label="Var. XXIII">
+            <section xml:id="section-VarXXIII" n="23" label="VAR.XXIII.">
               <measure xml:id="measure-0000000334420664" n="185">
                 <staff xml:id="staff-0000001590564287" n="1">
                   <layer xml:id="layer-0000000879433761" n="1">
@@ -14822,7 +14822,7 @@
                 <tempo xml:id="tempo-0000005287321834" type="heading" place="above" staff="1"
                   tstamp="1.000000">
                   <rend xml:id="rend-0000001814950744" halign="left" fontsize="125.00%"
-                    fontstyle="normal" fontweight="normal">Var. XXIII</rend>
+                    fontstyle="normal" fontweight="normal">VAR.XXIII.</rend>
                 </tempo>
                 <slur xml:id="slur-0000000634044608" startid="#chord-0000001738525709"
                   endid="#note-0000000324590884"/>
@@ -15517,7 +15517,7 @@
                 <tempo xml:id="tempo-0000005212321834" type="heading" place="above" staff="1"
                   tstamp="1.000000">
                   <rend xml:id="rend-0000000390876902" halign="left" fontsize="125.00%"
-                    fontstyle="normal" fontweight="normal">Var. XXIV</rend>
+                    fontstyle="normal" fontweight="normal">VAR.XXIV.</rend>
                 </tempo>
                 <dynam xml:id="dynam-0000005214231334" place="above" staff="2" tstamp="2.000000"
                   vgrp="240">pp</dynam>
@@ -16034,7 +16034,7 @@
               </measure>
               <sb xml:id="sb-0000000240839798"/>
             </section>
-            <section xml:id="section-VarXXV" n="25" label="Var. XXV">
+            <section xml:id="section-VarXXV" n="25" label="VAR.XXV.">
               <measure xml:id="measure-0000000708609674" n="201">
                 <staff xml:id="staff-0000000841250496" n="1">
                   <layer xml:id="layer-0000000303439294" n="1">
@@ -16086,7 +16086,7 @@
                 <tempo xml:id="tempo-0000005948551834" type="heading" place="above" staff="1"
                   tstamp="1.000000">
                   <rend xml:id="rend-0000001253192422" halign="left" fontsize="125.00%"
-                    fontstyle="normal" fontweight="normal">Var. XXV</rend>
+                    fontstyle="normal" fontweight="normal">VAR.XXV.</rend>
                 </tempo>
                 <dynam xml:id="dynam-0000001276929631" place="below" staff="1"
                   startid="#note-0000001829892934" vgrp="2500">p</dynam>
@@ -16461,7 +16461,7 @@
               </measure>
               <pb xml:id="pb-0000000911318907"/>
             </section>
-            <section xml:id="section-VarXXVI" n="26" label="Var. XXVI">
+            <section xml:id="section-VarXXVI" n="26" label="VAR.XXVI.">
               <measure xml:id="measure-0000001259705558" n="209">
                 <staff xml:id="staff-0000001835876537" n="1">
                   <layer xml:id="layer-0000001551892481" n="1">
@@ -16556,7 +16556,7 @@
                 <tempo xml:id="tempo-0000005212393823" type="heading" place="above" staff="1"
                   tstamp="1.000000">
                   <rend xml:id="rend-0000001800619620" halign="left" fontsize="125.00%"
-                    fontstyle="normal" fontweight="normal">Var. XXVI</rend>
+                    fontstyle="normal" fontweight="normal">VAR.XXVI.</rend>
                 </tempo>
                 <dynam xml:id="dynam-0000000863927109" place="below" staff="1"
                   startid="#chord-0000001656844724">f</dynam>
@@ -17149,7 +17149,7 @@
               </measure>
               <sb xml:id="sb-0000001851298948"/>
             </section>
-            <section xml:id="section-VarXXVII" n="27" label="Var. XXVII">
+            <section xml:id="section-VarXXVII" n="27" label="VAR.XXVII.">
               <measure xml:id="measure-0000000363749842" n="217">
                 <staff xml:id="staff-0000000737036089" n="1">
                   <layer xml:id="layer-0000001113191068" n="1">
@@ -17238,7 +17238,7 @@
                 <tempo xml:id="tempo-0000005212229333" type="heading" place="above" staff="1"
                   tstamp="1.000000">
                   <rend xml:id="rend-0000000731326853" halign="left" fontsize="125.00%"
-                    fontstyle="normal" fontweight="normal">Var. XXVII</rend>
+                    fontstyle="normal" fontweight="normal">VAR.XXVII.</rend>
                 </tempo>
                 <dynam xml:id="dynam-0000000596659535" place="above" staff="2"
                   startid="#chord-0000001912546922" vgrp="2700">f</dynam>
@@ -17815,7 +17815,7 @@
               </measure>
               <sb xml:id="sb-0000000331438877"/>
             </section>
-            <section xml:id="section-VarXXVIII" n="28" label="Var. XXVIII">
+            <section xml:id="section-VarXXVIII" n="28" label="VAR.XXVIII.">
               <measure xml:id="measure-0000000012339767" n="225">
                 <staff xml:id="staff-0000001627740427" n="1">
                   <layer xml:id="layer-0000001754870711" n="1">
@@ -17862,7 +17862,7 @@
                 <tempo xml:id="tempo-0000005212293847" type="heading" place="above" staff="1"
                   tstamp="1.000000">
                   <rend xml:id="rend-0000001832311924" halign="left" fontsize="125.00%"
-                    fontstyle="normal" fontweight="normal">Var. XXVIII</rend>
+                    fontstyle="normal" fontweight="normal">VAR.XXVIII.</rend>
                 </tempo>
                 <dynam xml:id="dynam-0000001689482901" place="below" staff="1"
                   startid="#note-0000001844494837">p</dynam>
@@ -18199,7 +18199,7 @@
               </measure>
               <sb xml:id="sb-0000000129445859"/>
             </section>
-            <section xml:id="section-VarXXIX" n="29" label="Var. XXIX">
+            <section xml:id="section-VarXXIX" n="29" label="VAR.XXIX.">
               <measure xml:id="measure-0000001529009789" n="233">
                 <staff xml:id="staff-0000001305997679" n="1">
                   <layer xml:id="layer-0000000088930083" n="1">
@@ -18344,7 +18344,7 @@
                 <tempo xml:id="tempo-0000005212292827" type="heading" place="above" staff="1"
                   tstamp="1.000000">
                   <rend xml:id="rend-0000002027011198" halign="left" fontsize="125.00%"
-                    fontstyle="normal" fontweight="normal">Var. XXIX</rend>
+                    fontstyle="normal" fontweight="normal">VAR.XXIX.</rend>
                 </tempo>
                 <dynam xml:id="dynam-0000001087675537" place="below" staff="1"
                   startid="#note-0000001587113855" vgrp="2900">ff</dynam>
@@ -19325,7 +19325,7 @@
               </measure>
               <sb xml:id="sb-0000000948373628"/>
             </section>
-            <section xml:id="section-VarXXX" n="30" label="Var. XXX">
+            <section xml:id="section-VarXXX" n="30" label="VAR.XXX.">
               <measure xml:id="measure-0000001605399384" n="241">
                 <staff xml:id="staff-0000001000656144" n="1">
                   <layer xml:id="layer-0000000596827800" n="1">
@@ -19370,7 +19370,7 @@
                 <tempo xml:id="tempo-0000005212192812" type="heading" place="above" staff="1"
                   tstamp="1.000000">
                   <rend xml:id="rend-0000000128473461" halign="left" fontsize="125.00%"
-                    fontstyle="normal" fontweight="normal">Var. XXX</rend>
+                    fontstyle="normal" fontweight="normal">VAR.XXX.</rend>
                 </tempo>
                 <slur xml:id="slur-0000000408561021" startid="#chord-0000000307868918"
                   endid="#chord-0000000191394709"/>
@@ -19787,7 +19787,7 @@
                 <tempo xml:id="tempo-0000005219283712" type="heading" place="above" staff="1"
                   tstamp="1.000000">
                   <rend xml:id="rend-0000001221777854" halign="left" fontsize="125.00%"
-                    fontstyle="normal" fontweight="normal">Var. XXXI</rend>
+                    fontstyle="normal" fontweight="normal">VAR.XXXI.</rend>
                 </tempo>
                 <dynam xml:id="dynam-0000001334029580" place="below" staff="2" tstamp="1.000000"
                   >pp</dynam>
@@ -20662,7 +20662,7 @@
               </measure>
               <pb xml:id="pb-0000001874876599"/>
             </section>
-            <section xml:id="section-VarXXXII" n="32" label="Var. XXXII">
+            <section xml:id="section-VarXXXII" n="32" label="VAR.XXXII.">
               <measure xml:id="measure-0000000660504441" n="257">
                 <staff xml:id="staff-0000001149526030" n="1">
                   <layer xml:id="layer-0000001719486140" n="1">
@@ -20784,7 +20784,7 @@
                 <tempo xml:id="tempo-00000052123231346" type="heading" place="above" staff="1"
                   tstamp="1.000000">
                   <rend xml:id="rend-0000000131860390" halign="left" fontsize="125.00%"
-                    fontstyle="normal" fontweight="normal">Var. XXXII</rend>
+                    fontstyle="normal" fontweight="normal">VAR.XXXII.</rend>
                 </tempo>
                 <slur startid="#note-0000001078912710" endid="#note-0000002022278741"/>
                 <slur startid="#note-0000001768550941" endid="#note-0000001658916745"/>
