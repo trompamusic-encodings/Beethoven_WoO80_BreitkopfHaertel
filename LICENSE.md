@@ -1,6 +1,6 @@
 ![CC-BY-4.0](https://i.creativecommons.org/l/by/4.0/88x31.png) 
 
-## This work is licensed under a [Creative Commons Attribution 4.0 International License]("http://creativecommons.org/licenses/by/4.0/").
+## This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 This music encoding is released by the licensor, Werner Goebl, University of Music and Performing Arts Vienna, on behalf of the TROMPA Project under the Creative Commons Attribution 4.0 International (CC-BY-4.0) license.
 
