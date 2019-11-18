@@ -719,7 +719,7 @@
                 <tempo xml:id="dir-0000000792961432" type="heading" place="above" staff="1"
                   tstamp="1.000000">
                   <rend xml:id="rend-0000000282199425" halign="left" fontsize="125.00%"
-                    fontstyle="normal" fontweight="normal">VAR. I</rend>
+                    fontstyle="normal" fontweight="normal">VAR. I.</rend>
                 </tempo>
                 <dynam xml:id="dynam-0000001796995108" place="below" staff="1"
                   startid="#note-0000000727777072" vgrp="100">p</dynam>
