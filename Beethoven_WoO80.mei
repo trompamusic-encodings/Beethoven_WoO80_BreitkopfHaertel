@@ -6,8 +6,8 @@
     <fileDesc>
       <titleStmt>
         <title>32 VARIATIONEN</title>
-        <title type="subordinate" n="1">c-moll</title>
-        <title type="subordinate" n="2" label="Opus number">WoO 80</title>
+        <title type="subordinate" n="1">für das Pianoforte</title>
+        <title type="subordinate" n="2" label="Publisher number">Serie 17. <abbr type="superscription">No.</abbr> 181.</title>
         <respStmt>
           <persName role="composer">Ludwig van Beethoven</persName>
           <persName role="encoder" enddate="2019-07-31T17:18:10">Werner Goebl</persName>
@@ -350,7 +350,7 @@
           <title>Beethovens Werke.</title>
           <arranger>
             <geogName>Vienna</geogName>
-            <persName>C. Haslinger quondam Tobias</persName>
+            <persName>C. Haslinger <abbr type="superscription">qm</abbr> Tobias</persName>
           </arranger>
           <identifier>Serie 17</identifier>
         </seriesStmt>
