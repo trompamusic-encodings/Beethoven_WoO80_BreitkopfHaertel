@@ -31,8 +31,8 @@
     </encodingDesc>
     <workList>
       <work>
+        <identifier auth.uri="http://d-nb.info/gnd" auth="GND" codedval="300017510">WoO 80</identifier>
         <title xml:lang="de">32 Variationen für das Pianoforte</title>
-        <!--<identifier auth.uri="http://d-nb.info/gnd" auth="GND" codedval="300017510">WoO 80</identifier>-->
         <composer>
           <persName auth.uri="http://d-nb.info/gnd" auth="GND" codedval="118508288">Ludwig van
             Beethoven</persName>
