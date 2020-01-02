@@ -438,7 +438,7 @@
                   </layer>
                 </staff>
                 <tempo xml:id="tempo-00001251234827" type="tempo" place="above" staff="1"
-                  tstamp="1.000000" midi.bpm="96">Allegretto.</tempo>
+                  tstamp="1.000000" midi.bpm="88">Allegretto.</tempo>
                 <tempo xml:id="tempo-00012351243123" type="heading" place="above" staff="1"
                   tstamp="1.000000">
                   <rend xml:id="rend-0000002143078728" halign="center" valign="middle"
