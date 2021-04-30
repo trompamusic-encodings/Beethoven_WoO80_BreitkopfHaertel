@@ -323,8 +323,7 @@
                         </rend>
                         <rend xml:id="rend-0000001223265769" halign="center" valign="middle" fontsize="100.00%">von</rend>
                         <rend xml:id="rend-0000001223265771" halign="center" valign="middle" fontsize="250.00%">
-                           <lb xml:id="lb-0000000931946442" />L. <rend xml:id="rend-0000001323133676" fontsize="200.00%">VAN</rend>
-                    BEETHOVEN.<lb xml:id="lb-0000000931946802" />
+                           <lb xml:id="lb-0000000931946442" />L. <rend xml:id="rend-0000001323133676" fontsize="200.00%">VAN</rend> BEETHOVEN.<lb xml:id="lb-0000000931946802" />
                         </rend>
                      </rend>
                   </pgHead>
