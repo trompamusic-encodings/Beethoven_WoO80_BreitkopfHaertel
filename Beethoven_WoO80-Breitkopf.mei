@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+<?xml-model href="https://music-encoding.org/schema/4.0.1/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.1/mei-CMN.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.1">
    <meiHead>
       <fileDesc>
          <titleStmt>
@@ -351,6 +351,7 @@
                </scoreDef>
                <section xml:id="section-WoO80">
                   <section xml:id="section-Thema" n="0" label="Thema">
+                     <pb xml:id="pb-0000001776188321" />
                      <measure xml:id="measure-0000001776188448" n="1">
                         <staff xml:id="staff-0000001516804281" n="1">
                            <layer xml:id="layer-0000000044583165" n="1">
@@ -1293,7 +1294,7 @@
                            </layer>
                         </staff>
                      </measure>
-                     <pb xml:id="pb-0000000731967607" />
+                     <pb xml:id="pb-0000000731967607" facs="#surface-0000000979522791"/>
                   </section>
                   <section xml:id="section-VarIII" n="3" label="VAR.III.">
                      <measure xml:id="measure-0000000293928349" n="25">
@@ -2609,7 +2610,7 @@
                         </staff>
                         <slur xml:id="slur-0000000140757764" startid="#note-0000000265165117" endid="#note-0000001353204780" />
                      </measure>
-                     <pb xml:id="pb-0000000580494562" />
+                     <pb xml:id="pb-0000000580494562" facs="#surface-0000000015544484"/>
                   </section>
                   <section xml:id="section-VarVI" n="6" label="VAR.VI.">
                      <measure xml:id="measure-0000000870581520" n="49">
@@ -4788,7 +4789,7 @@
                            </layer>
                         </staff>
                      </measure>
-                     <pb xml:id="pb-0000000032133337" />
+                     <pb xml:id="pb-0000000032133337" facs="#surface-0000000428168280"/>
                   </section>
                   <section xml:id="section-VarIX" n="9" label="VAR.IX.">
                      <measure xml:id="measure-0000001683170169" n="73">
@@ -5904,7 +5905,7 @@
                            </layer>
                         </staff>
                      </measure>
-                     <pb xml:id="pb-0000001863022877" />
+                     <pb xml:id="pb-0000001863022877" facs="#surface-0000000004283284"/>
                   </section>
                   <section xml:id="section-VarXI" n="11" label="VAR.XI.">
                      <measure xml:id="measure-0000001674529349" n="89">
@@ -7040,7 +7041,7 @@
                            </layer>
                         </staff>
                      </measure>
-                     <pb xml:id="pb-0000000603241891" />
+                     <pb xml:id="pb-0000000603241891" facs="#surface-0000000348445440"/>
                   </section>
                   <section xml:id="section-VarXIV" n="14" label="Var.XIV">
                      <measure xml:id="measure-0000000813550097" n="113">
@@ -9251,7 +9252,7 @@
                         <slur xml:id="slur-0000001544217634" startid="#note-0000000341948364" endid="#note-0000001312426922" />
                         <slur xml:id="slur-0000002020613898" startid="#note-0000000799022160" endid="#note-0000001802787889" />
                      </measure>
-                     <pb xml:id="pb-0000001529136120" />
+                     <pb xml:id="pb-0000001529136120" facs="#surface-0000000202463035"/>
                      <measure xml:id="measure-0000000234622343" n="141">
                         <staff xml:id="staff-0000001577389512" n="1">
                            <layer xml:id="layer-0000000213830634" n="1">
@@ -10642,7 +10643,7 @@
                         </staff>
                         <dynam xml:id="dynam-0000001999258162" place="above" staff="2" startid="#note-0000001365939093">f</dynam>
                      </measure>
-                     <pb xml:id="pb-0000001590049831" />
+                     <pb xml:id="pb-0000001590049831" facs="#surface-0000000289005695"/>
                   </section>
                   <section xml:id="section-VarXX" n="20" label="VAR.XX.">
                      <measure xml:id="measure-0000001306891841" n="161">
@@ -12088,7 +12089,7 @@
                            </layer>
                         </staff>
                      </measure>
-                     <pb xml:id="pb-0000000056012887" />
+                     <pb xml:id="pb-0000000056012887" facs="#surface-0000000089792158"/>
                      <measure xml:id="measure-0000000943363798" n="181">
                         <staff xml:id="staff-0000000034285275" n="1">
                            <layer xml:id="layer-0000001619964784" n="1">
@@ -13753,7 +13754,7 @@
                            </layer>
                         </staff>
                      </measure>
-                     <pb xml:id="pb-0000000911318907" />
+                     <pb xml:id="pb-0000000911318907" facs="#surface-0000000457095651"/>
                   </section>
                   <section xml:id="section-VarXXVI" n="26" label="VAR.XXVI.">
                      <measure xml:id="measure-0000001259705558" n="209">
@@ -15558,7 +15559,7 @@
                            </layer>
                         </staff>
                      </measure>
-                     <pb xml:id="pb-0000001015977716" />
+                     <pb xml:id="pb-0000001015977716" facs="#surface-0000000087770057"/>
                      <measure xml:id="measure-0000000343056195" n="235">
                         <staff xml:id="staff-0000000068539581" n="1">
                            <layer xml:id="layer-0000001148558742" n="1">
@@ -17183,7 +17184,7 @@
                         <slur xml:id="slur-0000000177489991" startid="#note-0000002108512272" endid="#note-0000001209160583" />
                         <dynam xml:id="dir-0000000512680763" place="above" staff="2" tstamp="1.000000">cresc.</dynam>
                      </measure>
-                     <pb xml:id="pb-0000001874876599" />
+                     <pb xml:id="pb-0000001874876599" facs="#surface-0000000009921844"/>
                   </section>
                   <section xml:id="section-VarXXXII" n="32" label="VAR.XXXII.">
                      <measure xml:id="measure-0000000660504441" n="257">
@@ -18190,7 +18191,7 @@
                            </layer>
                         </staff>
                      </measure>
-                     <pb xml:id="pb-0000000750617644" />
+                     <pb xml:id="pb-0000000750617644" facs="#surface-0000000428488245"/>
                      <measure xml:id="measure-0000000985401876" n="268">
                         <staff xml:id="staff-0000000750909884" n="1">
                            <layer xml:id="layer-0000000447418711" n="1">
@@ -19215,7 +19216,7 @@
                            </layer>
                         </staff>
                      </measure>
-                     <pb xml:id="pb-0000000046878016" />
+                     <pb xml:id="pb-0000000046878016" facs="#surface-0000000149629280"/>
                      <measure xml:id="measure-0000000360428471" n="285">
                         <staff xml:id="staff-0000000634810343" n="1">
                            <layer xml:id="layer-0000000987928136" n="1">
